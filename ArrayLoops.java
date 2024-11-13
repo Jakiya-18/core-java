@@ -110,9 +110,5 @@ public class ArrayLoops{
         for (int i = 0; i<7; i= i+2){
             System.out.println(genZYears[i]);               //SKIPPING ONE ELEMENT
         }
-
-        System.out.println("---------------------------------");
-
-    
     }
 }
